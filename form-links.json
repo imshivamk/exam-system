@@ -1,43 +1,8 @@
 {
-    "BCA": {
-      "Semester 2": {
-        "Mathematics": "https://forms.gle/exampleMathLink",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      },
-      "Semester 4": {
-        "Java": "https://forms.gle/reiXPtEumA92EyrY8",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      },
-      "Semester 6": {
-        "Mathematics": "https://forms.gle/exampleMathLink",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      }
-    },
-    "BBA": {
-      "Semester 2": {
-        "Mathematics": "https://forms.gle/exampleMathLink",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      },
-      "Semester 4": {
-        "Mathematics": "https://forms.gle/exampleMathLink",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      },
-      "Semester 6": {
-        "Mathematics": "https://forms.gle/exampleMathLink",
-        "English": "https://forms.gle/exampleEnglishLink",
-        "Physics": "https://forms.gle/examplePhysicsLink",
-        "Chemistry" : "examplePhysicsLink"
-      }
-    }
-  }
-  
+  "bca-sem-4-computer networks": "https://forms.gle/xyz123",
+  "bca-sem-4-optimization techniques": "https://forms.gle/xyz123",
+  "bca-sem-4-advanced java": "https://forms.gle/reiXPtEumA92EyrY8",
+  "bca-sem-4-advanced html, css and javascript": "https://forms.gle/xyz123",
+  "bca-sem-4-mathematical aptitude": "https://forms.gle/xyz123",
+  "bca-sem-4-cybersecurity": "https://forms.gle/xyz123"
+}
