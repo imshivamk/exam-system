@@ -1,0 +1,43 @@
+{
+    "BCA": {
+      "Semester 2": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      },
+      "Semester 4": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      },
+      "Semester 6": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      }
+    },
+    "BBA": {
+      "Semester 2": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      },
+      "Semester 4": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      },
+      "Semester 6": {
+        "Mathematics": "https://forms.gle/exampleMathLink",
+        "English": "https://forms.gle/exampleEnglishLink",
+        "Physics": "https://forms.gle/examplePhysicsLink",
+        "Chemistry" : "examplePhysicsLink"
+      }
+    }
+  }
+  
